@@ -1,6 +1,6 @@
 # SeFrekuensi - Aplikasi Chat Sederhana
 
-<img width="320" height="320" alt="SeFrekuensi Logo" src="https://github.com/aufar05/flutter_kawan_amalan/assets/110684395/4b1102b6-f4a9-4eed-b587-7e799dfc6496">
+<img width="320" height="320" alt="SeFrekuensi Logo" src="![logo](https://github.com/aufar05/flutter_kawan_amalan/assets/110684395/4b1102b6-f4a9-4eed-b587-7e799dfc6496)">
 
 SeFrekuensi adalah aplikasi chat sederhana yang dibangun menggunakan Firebase, dirancang untuk menghubungkan orang-orang yang memiliki minat dan preferensi sefrekuensi. Aplikasi ini memiliki dua fitur utama:
 
