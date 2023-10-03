@@ -11,18 +11,18 @@ SeFrekuensi adalah aplikasi chat sederhana yang dibangun menggunakan Firebase, d
 ## Tangkapan Layar
 
 <div align="center">
-   <img alt="Intro SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/9cc99806-da4f-4ffc-9892-f59704795c21" width="200" height="300">
-  <img alt="Login SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/d9076a3c-340d-49ad-9b34-73b7e8ae4de3" width="200" height="400">
+   <img alt="Intro SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/9cc99806-da4f-4ffc-9892-f59704795c21" width="200" height="400" style="border: 0.5px solid #000;">
+  <img alt="Login SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/d9076a3c-340d-49ad-9b34-73b7e8ae4de3" width="200" height="400" style="border: 1px solid #000;">
 </div>
 <br>
 <div align="center">
-  <img alt="Home SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e495f155-d411-46f8-9dc8-ac4a989abd81" width="200" height="500">
- <img alt="Chat SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/6c01be8c-58b7-4f58-a121-0df18256a49d" width="200" height="200">
+  <img alt="Home SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e495f155-d411-46f8-9dc8-ac4a989abd81" width="200" height="400" style="border: 1px solid #000;">
+ <img alt="Chat SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/6c01be8c-58b7-4f58-a121-0df18256a49d" width="200" height="400" style="border: 1px solid #000;">
 </div>
 <br>
 <div align="center">
-   <img alt="Quiz SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e8f6d9c3-86e6-45eb-9140-dbadfc5f45b1" width="200" height="200">
-  <img alt="User Ada SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/bb7af3db-4f13-4c78-8bd7-8f2de9a65f54" width="200" height="200">
+   <img alt="Quiz SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e8f6d9c3-86e6-45eb-9140-dbadfc5f45b1" width="200" height="400" style="border: 1px solid #000;">
+  <img alt="User Ada SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/bb7af3db-4f13-4c78-8bd7-8f2de9a65f54" width="200" height="400" style="border: 1px solid #000;">
 </div>
 
 
