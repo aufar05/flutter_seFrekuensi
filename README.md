@@ -16,7 +16,7 @@ SeFrekuensi adalah aplikasi chat sederhana yang dibangun menggunakan Firebase, d
 </div>
 <br>
 <div align="center">
-  <img alt="Home SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e495f155-d411-46f8-9dc8-ac4a989abd81" width="200" height="400" style="border: 1px solid #000;">
+  <img alt="Home SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/e495f155-d411-46f8-9dc8-ac4a989abd81" width="200" height="400" style="border: 5px solid #000;">
  <img alt="Chat SF" src="https://github.com/aufar05/seFrekuensi/assets/110684395/6c01be8c-58b7-4f58-a121-0df18256a49d" width="200" height="400" style="border: 1px solid #000;">
 </div>
 <br>
