@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229497137254",
+    "project_id": "flutter-chattitude",
+    "storage_bucket": "flutter-chattitude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229497137254:android:0b7b25ffd55be9d8f8e5a7",
+        "android_client_info": {
+          "package_name": "com.example.chattitude"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3xCIuoa9FYXL5vuH9y5pd5qLNydNOYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
